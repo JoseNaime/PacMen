@@ -8,6 +8,9 @@ What if Pac-man was able to move freely? Or better, what if a ton of Pac-men wer
 ## How to run it?
 You need to fork and download the project in your local machine, drag and drop the index.html file into the browser, and you'll see something like this...
 
+[![PacMen](http://i3.ytimg.com/vi/zgqFW6_GA_o/maxresdefault.jpg)](https://youtu.be/zgqFW6_GA_o "PacMen")
+**Click the image to watch video**
+
 ## Roadmap
 > V1.1
 - Now you can delete latest pac-man
